@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, I'm Darshan Krishna! 👋
 
-<!--
-**DarshanKrishna-DK/DarshanKrishna-DK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final year B.Tech student majoring in Electronics and Computer Engineering at Reva University, Bengaluru. Aspiring Software Engineer with a passion for creating innovative software solutions that make a positive impact on people's lives.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm deeply enthusiastic about working in an ethical environment that challenges my abilities and fosters a diversified skillset.
+- 💻 My primary interests include Web Development, Artificial Intelligence (AI), Machine Learning (ML), Networking, Cloud Computing, and Game Development.
+- 🚀 I have a strong foundation in programming languages like C++, HTML, CSS, Java, Python, and JavaScript. I'm well-versed in data structures, algorithms, UI/UX design, SQL, shell scripting, networking, and cloud computing.
+- 🌐 To showcase my skills and projects, I maintain a portfolio website: [Portfolio](https://darshankrishna-dk.github.io/).
+
+## Projects
+
+Here are a few projects I've worked on:
+
+- 🎮 Developed a 2D computer game using C++ and SFML.
+- 💬 Built a real-time chat application with HTML, CSS, JavaScript, Node.js, and Socket.io.
+- 📊 Conducting research on ACO-based petal ant optimization for MANETs.
+
+## Coding and Activities
+
+- 🏆 Actively participate in coding competitions and hackathons.
+- 💡 Engage in extracurricular activities, such as training fellow students on HTML and CSS.
+- 🚧 Core technical team member of Coders Club at REVA University.
+
+## Let's Connect
+
+- Feel free to contact me at darshankrishna2k2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/darshan-krishna-dk-614141225/
+
+I'm eager to take on new challenges, collaborate with talented individuals, and continue my journey of learning and growth in the field of software engineering. Let's build something amazing together!
+
