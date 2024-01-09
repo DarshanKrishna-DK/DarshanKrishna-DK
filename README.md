@@ -21,7 +21,7 @@ Here are a few projects I've worked on:
 
 - 🏆 Actively participate in coding competitions and hackathons.
 - 💡 Engage in extracurricular activities, such as training fellow students on HTML and CSS.
-- 🚧 Core technical team member of Coders Club at REVA University.
+- 🚧 President of </DevBraze> Club at REVA University.
 
 ## Let's Connect
 
