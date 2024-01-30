@@ -19,7 +19,7 @@ Here are a few projects I've worked on:
 
 ## Coding and Activities
 
-- 🏆 Actively participate in coding competitions and hackathons.
+- 🏆 Actively participated in coding competitions and hackathons.
 - 💡 Engage in extracurricular activities, such as training fellow students on HTML and CSS.
 - 🚧 President of </DevBraze> Club at REVA University.
 
