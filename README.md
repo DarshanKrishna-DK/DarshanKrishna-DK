@@ -1,32 +1,23 @@
-# Hello, I'm Darshan Krishna! 👋
+<h1 align="center">Hi 👋, I'm Darshan Krishna N</h1>
+<h3 align="center">Tech Freak</h3>
 
-I'm a final year B.Tech student majoring in Electronics and Computer Engineering at Reva University, Bengaluru. Aspiring Software Engineer with a passion for creating innovative software solutions that make a positive impact on people's lives.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshankrishna-dk&label=Profile%20views&color=0e75b6&style=flat" alt="darshankrishna-dk" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshankrishna-dk" alt="darshankrishna-dk" /></a> </p>
 
-- 🌱 I'm deeply enthusiastic about working in an ethical environment that challenges my abilities and fosters a diversified skillset.
-- 💻 My primary interests include Web Development, Artificial Intelligence (AI), Machine Learning (ML), Networking, Cloud Computing, and Game Development.
-- 🚀 I have a strong foundation in programming languages like C++, HTML, CSS, Java, Python, and JavaScript. I'm well-versed in data structures, algorithms, UI/UX design, SQL, shell scripting, networking, and cloud computing.
-- 🌐 To showcase my skills and projects, I maintain a portfolio website: [Portfolio](https://darshankrishna-dk.github.io/).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/darshan-krishna-dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-krishna-dk" height="30" width="40" /></a>
+<a href="https://instagram.com/darshankrishna_dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshankrishna_dk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/darshankrishna21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshankrishna21" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/darshankrishna2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshankrishna2k2" height="30" width="40" /></a>
+</p>
 
-## Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-Here are a few projects I've worked on:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshankrishna-dk&show_icons=true&locale=en&layout=compact" alt="darshankrishna-dk" /></p>
 
-- 🎮 Developed a 2D computer game using C++ and SFML.
-- 💬 Built a real-time chat application with HTML, CSS, JavaScript, Node.js, and Socket.io.
-- 📊 Conducting research on ACO-based petal ant optimization for MANETs.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshankrishna-dk&show_icons=true&locale=en" alt="darshankrishna-dk" /></p>
 
-## Coding and Activities
-
-- 🏆 Actively participated in coding competitions and hackathons.
-- 💡 Engage in extracurricular activities, such as training fellow students on HTML and CSS.
-- 🚧 President of </DevBraze> Club at REVA University.
-
-## Let's Connect
-
-- Feel free to contact me at darshankrishna2k2@gmail.com
-- LinkedIn: https://www.linkedin.com/in/darshan-krishna-dk-614141225/
-
-I'm eager to take on new challenges, collaborate with talented individuals, and continue my journey of learning and growth in the field of software engineering. Let's build something amazing together!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshankrishna-dk&" alt="darshankrishna-dk" /></p>
