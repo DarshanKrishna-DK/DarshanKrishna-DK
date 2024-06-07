@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshankrishna-dk" alt="darshankrishna-dk" /></a> </p>
 
+- 🔭 I’m currently an intern at **JLL Technologies**
+
+- 🌱 I’m currently learning **CI/CD**
+
+- 📫 How to reach me **darshankrishna2k2@gmail.com**
+
+- ⚡ Fun fact **I am lazy**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/darshan-krishna-dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-krishna-dk" height="30" width="40" /></a>
