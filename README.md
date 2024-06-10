@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Darshan Krishna N</h1>
 <h3 align="center">Lazy Developer</h3>
 
-<img align="right" alt = "Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT45hqCJfCrxTq2uRKOXPCctXdt8RHAPRmn6w&usqp=CAU">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshankrishna-dk" alt="darshankrishna-dk" /></a></p>
-
 <h4 align="left"> About Me</h4>
 - 🔭 I’m currently a Data Quality Analyst intern at JLL Technologies
 
@@ -18,6 +14,10 @@
 - 📫 My portfolio website: [Portfolio](https://darshankrishna-dk.github.io/)
 
 - ⚡ Interesting fact: I love attending community events and collect swags
+
+<img align="right" alt = "Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT45hqCJfCrxTq2uRKOXPCctXdt8RHAPRmn6w&usqp=CAU">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshankrishna-dk" alt="darshankrishna-dk" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
