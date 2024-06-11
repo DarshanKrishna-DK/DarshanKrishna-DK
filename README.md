@@ -1,4 +1,4 @@
-[![Master Head]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVkvsItl8yseCXxT0ANmKi1FVHt1TEEQZyQ&usqp=CAU](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif))](https://darshankrishna-dk.io)
+[![Master Head](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)](https://darshankrishna-dk.io)
 <h1 align="center">Hi 👋, I'm Darshan Krishna N</h1>
 <h3 align="center">Lazy Developer</h3>
 
