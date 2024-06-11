@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://cdn.dribbble.com/users/192882/screenshots/4659605/dribbble-animation.gif" style="width: 100%;" alt="Master Head">
-</div>
+[![Master Head](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0QJykVKRcQE2Z5h85Cgg0m&ust=1718168400536000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDsmZvi0oYDFQAAAAAdAAAAABAE)](https://darshankrishna-dk.io)
 <h1 align="center">Hi 👋, I'm Darshan Krishna N</h1>
 <h3 align="center">Lazy Developer</h3>
 
