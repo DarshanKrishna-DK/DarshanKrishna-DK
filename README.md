@@ -6,7 +6,9 @@
 
 <h3 align="left">ABOUT ME</h4>
 
-- 🔭 I’m currently a Data Quality Analyst intern at JLL Technologies
+- 👨🏻‍🎓 2024 graduate with a degree in Electronics and Computer Engineering from REVA University
+
+- 💼 I’m currently a Data Quality Analyst intern at JLL Technologies
 
 - 💻 My primary focus is on Backend Development
 
