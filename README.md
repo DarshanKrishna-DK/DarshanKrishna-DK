@@ -31,12 +31,9 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshankrishna-dk&show_icons=true&locale=en&layout=compact" alt="darshankrishna-dk" /></p>
 <br>
 
-<h3 align="left">LET'S CONNECT</h3>
-<p>
-<a align="left" href="https://linkedin.com/in/darshan-krishna-dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-krishna-dk" height="30" width="40" /></a>
-<a align="center" href="https://www.hackerrank.com/darshankrishna21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshankrishna21" height="30" width="40" /></a>
-<a align="right" href="https://auth.geeksforgeeks.org/user/darshankrishna2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshankrishna2k2" height="30" width="40" /></a>
+<h3 align="center">LET'S CONNECT</h3>
+<p align="center">
+<a href="https://linkedin.com/in/darshan-krishna-dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-krishna-dk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/darshankrishna21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshankrishna21" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/darshankrishna2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshankrishna2k2" height="30" width="40" /></a>
 </p>
-<br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshankrishna-dk&show_icons=true&locale=en" alt="darshankrishna-dk" /></p>
