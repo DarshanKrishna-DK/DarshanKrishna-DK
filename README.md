@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Darshan Krishna N</h1>
 <h3 align="center">Lazy Developer</h3>
 
-<img align="right" alt = "Coding" width="450" height="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt = "Coding" width="450" height="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<h3 align="left"> About Me</h4>
+<h3 align="left">ABOUT ME</h4>
+
 - 🔭 I’m currently a Data Quality Analyst intern at JLL Technologies
 
 - 💻 My primary focus is on Backend Development
@@ -19,9 +20,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshankrishna-dk" alt="darshankrishna-dk" /></a></p>
 
-<h3 align="left">Let's Connect: </h3>
+<h3 align="left">LET'S CONNECT</h3>
 <p align="left">
-<h4>LinkedIn   </h4>
+<span>LinkedIn</span>
 <a href="https://linkedin.com/in/darshan-krishna-dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-krishna-dk" height="30" width="40" /></a>
 <br>
 <a href="https://instagram.com/darshankrishna_dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshankrishna_dk" height="30" width="40" /></a>
