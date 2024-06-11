@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Krishna N</h1>
 <h3 align="center">Lazy Developer</h3>
 
-<img align="right" alt = "Coding" width="450" height="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt = "Coding" width="430" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <h3 align="left">ABOUT ME</h4>
 
@@ -21,13 +21,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshankrishna-dk" alt="darshankrishna-dk" /></a></p>
 
 <h3 align="left">LET'S CONNECT</h3>
-<p align="left">
-<span>LinkedIn</span>
-<a href="https://linkedin.com/in/darshan-krishna-dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-krishna-dk" height="30" width="40" /></a>
-<br>
-<a href="https://instagram.com/darshankrishna_dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshankrishna_dk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darshankrishna21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshankrishna21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/darshankrishna2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshankrishna2k2" height="30" width="40" /></a>
+<p>
+<a align="left" href="https://linkedin.com/in/darshan-krishna-dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-krishna-dk" height="30" width="40" /></a>
+<a align="center" href="https://www.hackerrank.com/darshankrishna21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshankrishna21" height="30" width="40" /></a>
+<a align="right" href="https://auth.geeksforgeeks.org/user/darshankrishna2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshankrishna2k2" height="30" width="40" /></a>
 </p>
 
 <br>
