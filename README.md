@@ -37,4 +37,4 @@
 <a href="https://www.hackerrank.com/darshankrishna21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshankrishna21" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/darshankrishna2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshankrishna2k2" height="30" width="40" /></a>
 </p>
-<p align="left">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p align="left">--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
