@@ -16,7 +16,7 @@
 
 - 📫 My portfolio website: [Portfolio](https://darshankrishna-dk.github.io/)
 
-- ⚡ I love attending community events and collect swags
+- ⚡ I love attending community events and collecting swags
 
 <br>
 
