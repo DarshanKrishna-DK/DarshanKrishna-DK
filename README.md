@@ -12,7 +12,7 @@
 
 - 💻 Primary focus on Backend Development
 
-- 🌱 Currently learning Data Structures, CI/CD and Power BI
+- 🌱 Currently learning Automation Scripting
 
 - 📫 My portfolio website: [Portfolio](https://darshankrishna-dk.github.io/)
 
