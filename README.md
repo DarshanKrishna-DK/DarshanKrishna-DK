@@ -6,9 +6,9 @@
 
 <h3 align="left">ABOUT ME</h4>
 
+- 💼 Currently a Data Quality Analyst at JLL Technologies
+  
 - 👨🏻‍🎓 2024 graduate with a degree in Electronics and Computer Engineering from REVA University
-
-- 💼 Currently a Data Quality Analyst intern at JLL Technologies
 
 - 💻 Primary focus on Backend Development
 
