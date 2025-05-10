@@ -6,17 +6,15 @@
 
 <h3 align="left">ABOUT ME</h4>
 
-- 💼 Currently a Data Quality Analyst at JLL Technologies
+- Data Quality Analyst at JLL Technologies
+
+- Founder of EZHostz Community
   
-- 👨🏻‍🎓 2024 graduate with a degree in Electronics and Computer Engineering from REVA University
+- 2024 graduate with a degree in Electronics and Computer Engineering from REVA University
 
-- 💻 Primary focus on Backend Development
+- Primary focus on APIs, Automation scripts and community building.
 
-- 🌱 Currently learning Automation Scripting
-
-- 📫 My portfolio website: [Portfolio](https://darshankrishna-dk.github.io/)
-
-- ⚡ I love attending community events and collecting swags
+- I love attending community events and collecting swags
 
 <br>
 
