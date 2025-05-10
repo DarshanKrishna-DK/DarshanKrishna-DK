@@ -9,6 +9,8 @@
 - Data Quality Analyst at JLL Technologies
 
 - Founder of EZHostz Community
+
+- Speaker and Blogger
   
 - 2024 graduate with a degree in Electronics and Computer Engineering from REVA University
 
@@ -31,8 +33,8 @@
 
 <h3 align="center">--------------- LET'S CONNECT ---------------</h3>
 <p align="center">
-<a href="https://linkedin.com/in/darshan-krishna-dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-krishna-dk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darshankrishna21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshankrishna21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/darshankrishna2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshankrishna2k2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darshan-krishna-dk" target="blank">LINKEDIN</a> <span> || </span>
+<a href="https://www.instagram.com/cryptech_dk" target="blank">INSTAGRAM</a> <span> || </span>
+<a href="https://x.com/CrypTech_DK" target="blank">TWITTER</a>
 </p>
 <h3 align="center">----------------------------------------------------------</h3>
