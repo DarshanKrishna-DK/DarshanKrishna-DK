@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# `> Darshan Krishna`
+# `> Darshan Krishna N`
 
 ### Data Analyst @ JLL Technologies | Founder @ KrowdKraft_ | DevRel & Community Builder
 
@@ -16,7 +16,7 @@
 
 ```json
 {
-  "name"      : "Darshan Krishna",
+  "name"      : "Darshan Krishna N",
   "role"      : "Data Analyst @ JLL Technologies",
   "community" : "Founder @ KrowdKraft_ (1,200+ members)",
   "location"  : "Bengaluru, India",
