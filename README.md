@@ -1,125 +1,186 @@
 [![Master Head](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://darshankrishna-dk.io)
 
-<h1 align="center">Hi 👋, I'm Darshan Krishna</h1>
-<h3 align="center">Data Analyst @ JLL Technologies | Founder @ KrowdKraft_ | DevRel & Community Builder</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+# `> Darshan Krishna`
 
----
+### Data Analyst @ JLL Technologies | Founder @ KrowdKraft_ | DevRel & Community Builder
 
-## 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Data+Analyst+%40+JLL+Technologies;Founder+%40+KrowdKraft_+(1%2C200%2B+members);Unfold'24+Hackathon+Winner;Postman+Captain+%7C+2nd+in+India;AlgoBharat+Regional+Ambassador+%E2%80%94+Bengaluru)](https://git.io/typing-svg)
 
-- Data Analyst at **JLL Technologies**  
-- Founder of **KrowdKraft_** (1,000+ member developer community)  
-- DevRel enthusiast who loves **building communities** and **sharing knowledge**  
-- Blogger, speaker, and active member of the tech ecosystem  
-- Passionate about **hackathons, events, and developer growth**  
+</div>
 
 ---
 
-## 🏆 Achievements
+## About Me
 
-- 🥇 Winner, **Unfold’24** – Asia’s biggest multichain, multi-protocol hackathon  
-- 🥇 Winner, **AlgoHack’25**  
-- 🎤 **5× Speaker** at tech events  
-- 🏅 **Hackathon Judge** (1×)  
-- 🚀 Multiple hackathon wins over **4+ years**  
+```json
+{
+  "name"      : "Darshan Krishna",
+  "role"      : "Data Analyst @ JLL Technologies",
+  "community" : "Founder @ KrowdKraft_ (1,200+ members)",
+  "location"  : "Bengaluru, India",
+  "focus"     : ["Web3", "Data", "DevRel", "Community"],
 
----
+  "community-roles": [
+    "AlgoBharat Regional Ambassador - Bengaluru",
+    "2nd Postman Captain in India",
+    "Ex-Arbitrum Ambassador"
+  ],
 
-## 👥 Community & Contributions
-
-- 🌐 Founder of **KrowdKraft_** – Developer community with **1,000+ members**  
-- 🛠️ Organizer of **workshops, seminars, and hackathons** across institutions  
-- ✍️ Blogger & **public speaker** passionate about helping others learn and connect  
-
----
-
-## ✨ In Short
-
-💡 I am a **community builder, hackathon lover, and tech explorer** who enjoys **creating, contributing, and connecting**.  
-
----
-
-## 🔧 Languages & Tools  
-
-<p align="center">  
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35"/></a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="35" height="35"/></a>
-<!-- <a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025" alt="ethereum" width="35" height="35"/></a>
-<a href="https://algorand.foundation/" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/algorand-algo-logo.svg?v=025" alt="algorand" width="35" height="35"/></a>
-<a href="https://aptoslabs.com/" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/aptos-apt-logo.svg?v=025" alt="aptos" width="35" height="35"/></a>
-<a href="https://github.com/move-language/move" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/move-programming-language-logo-1A14F3A2E0-seeklogo.com.png" alt="move" width="35" height="35"/></a> -->
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" height="35"/></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35" height="35"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="35" height="35"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></a>
-</p> 
+  "achievements": {
+    "hackathon_wins"    : ["Unfold'24 - Asia's biggest multichain hackathon", "AlgoHack'25", "Various other wins in 5+ years"],
+    "speaking"          : "20+ tech events",
+    "judging"           : "Hackathon judge (4x)",
+    "events_organised"  : "30+ developer events (workshops, seminars, hackathons)"
+  }
+}
+```
 
 ---
 
-## 📊 GitHub Stats  
+## Blockchain Ecosystem
 
-<!--<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=darshankrishna-dk&show_icons=true&locale=en&theme=tokyonight" alt="darshankrishna-dk" />
-</p>-->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshankrishna-dk&show_icons=true&locale=en&layout=compact" alt="darshankrishna-dk" /></p> 
+> Chains I have built most on
+
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://cryptologos.cc/logos/algorand-algo-logo.svg?v=025" width="40"/><br/>
+  <sub><b>Algorand</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025" width="40"/><br/>
+  <sub><b>Ethereum</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.svg?v=025" width="40"/><br/>
+  <sub><b>Arbitrum</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" width="40"/><br/>
+  <sub><b>Solana</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Move](https://img.shields.io/badge/Move-4A90D9?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TCL](https://img.shields.io/badge/TCL-E4A600?style=flat-square&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+**Data & Analytics**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud, DevOps & Backend**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshankrishna-dk&theme=tokyonight" alt="darshankrishna-dk" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshankrishna-dk&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshankrishna-dk&theme=tokyonight&hide_border=true" height="165" alt="Streak"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshankrishna-dk&theme=tokyonight&row=1&column=6" alt="darshankrishna-dk" /></a>
-</p>
-
----
-
-## 🔥 GitHub Contribution Heatmap  
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshankrishna-dk&theme=react-dark" alt="GitHub Activity Heatmap" />
-</p>
-
----
-
-## 🔗 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/darshan-krishna-dk" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/CrypTech_DK" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/cryptech_dk" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=darshankrishna-dk&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=8" alt="Trophies"/>
   </a>
-</p>  
+</p>
 
 ---
 
-## 🌍 Explore My Community  
+## Contribution Graph
 
-👉 [KrowdKraft Website](https://krowdkraft.live/community)  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshankrishna-dk&bg_color=1a1b27&color=00d9ff&line=0d74c1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## Community
+
+<div align="center">
+
+|KrowdKraft_ | 1,200+ members | Developer community across Bengaluru |
+|---|---|---|
+| Events Organised | 30+ | Workshops · Seminars · Hackathons |
+| Speaking | 20+ talks | Tech events & developer meetups |
+| Judging | 4× | Hackathon jury |
+
+</div>
+
+---
+
+```
+ ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗
+██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝
+██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║   
+██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║   
+╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║   
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝  
+
+  Always open to collabs, speaking invites & good builder conversations.
+  Find me across the web - let's build something.
+```
+
+<p align="center">
+  <a href="https://linkedin.com/in/darshan-krishna-dk">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://x.com/CrypTech_DK">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/cryptech_dk">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://krowdkraft.live/community">
+    <img src="https://img.shields.io/badge/KrowdKraft__-FF6B35?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
