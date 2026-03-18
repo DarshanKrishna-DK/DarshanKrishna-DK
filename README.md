@@ -24,6 +24,7 @@
 
   "community-roles": [
     "AlgoBharat Regional Ambassador - Bengaluru",
+    "Community Lead @TigerGraph"
     "2nd Postman Captain in India",
     "Ex-Arbitrum Ambassador"
   ],
